@@ -199,8 +199,8 @@
             <div class="container">
                 <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
                     <div class="col-md-6 px-0">
-                        <h1 class="display-4 font-italic">EzUptime - UptimeRobot</h1>
-                        <p class="lead my-3">EzUptime! The best uptime robot. No signup and easy to use! Start using us today. From always-on-repls to well... Anything!</p>
+                        <h1 class="display-4 font-italic">RoyalUptime - UptimeRobot</h1>
+                        <p class="lead my-3">RoyalUptime! The best uptime robot. No signup and easy to use! Start using us today. From always-on-repls to well... Anything!</p>
                         <p class="lead mb-0"><a href="/create" class="text-white font-weight-bold">Create a Robot</a></p>
                     </div>
                 </div>
